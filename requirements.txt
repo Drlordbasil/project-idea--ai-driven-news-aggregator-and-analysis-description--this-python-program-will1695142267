@@ -1,0 +1,11 @@
+The package requirements for this Python program are:
+
+- requests
+- BeautifulSoup
+- nltk
+- sklearn
+- numpy
+- pandas
+- matplotlib
+- wordcloud
+- smtplib
